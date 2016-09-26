@@ -27,5 +27,14 @@
 	<body>
 		<div id='display'>
 			<button id='button'>Click Here</button>
+		</div>
+		<script>
+			var myBut = document.getElementById("button");
+			var disp = document.getElementById("display");
+			
+			myBut.onclick = function(){
+				disp.style.backgroundColor = "#AAA";
+			}
+		</script>
 	</body>
 </html>
