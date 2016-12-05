@@ -1,0 +1,53 @@
+
+#submit_but {
+    display: none;
+}
+
+.newdiv {
+    width:70vw;
+    height:30vh;
+    position:relative;
+    Left:15vw;
+    background-color: aqua;
+    margin:10vh 0 0 0;
+}
+
+.newimgdiv {
+    width:8vw;
+    height:8vw;
+    background-color: yellow;
+    position:relative;
+    bottom:10%;
+    right:7%;
+}
+
+.newuserdiv {
+    width:16vw;
+    height:12vh;
+    background-color: grey;
+    position:relative;
+    top:10%;
+    left:78%;
+}
+
+.newmoviediv {
+    width:8vw;
+    height:20vh;
+    background-color: brown;
+    position:absolute;
+    bottom:60%;
+    left:90%;
+}
+
+.newcommentdiv {
+    width:46vw;
+    height:24vh;
+    position: relative;
+    bottom: 80%;
+    left: 7%;
+}
+
+.newmovie {
+    width:8vw;
+    height:20vh;
+}
